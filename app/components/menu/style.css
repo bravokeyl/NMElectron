@@ -1,0 +1,15 @@
+.menu {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.link {
+  padding: 16px;
+  border: 1px solid hsla(0,0%,50%,.06);
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+}
+.link:last-child {
+  border-bottom: 1px solid hsla(0,0%,50%,.06);
+}
