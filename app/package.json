@@ -4,10 +4,11 @@
   "version": "1.0.0",
   "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
   "main": "./main.js",
+  "private": true,
   "author": {
-    "name": "C. T. Lin",
-    "email": "chentsulin@gmail.com",
-    "url": "https://github.com/chentsulin"
+    "name": "bravokeyl",
+    "email": "bravokeyl@gmail.com",
+    "url": "https://github.com/bravokeyl"
   },
   "license": "MIT",
   "dependencies": {
